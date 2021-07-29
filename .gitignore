@@ -1,0 +1,14 @@
+# virtualenv
+.venv
+venv/
+
+# IDE settings
+.vscode/
+
+#IntelliJ files
+*.iml
+.idea/
+out/
+
+__pycache__
+.env
